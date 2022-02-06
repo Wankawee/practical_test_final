@@ -1,0 +1,7 @@
+{
+    "env":{
+        "ARTHUR_BASE_URL": "https://staging.arthuronline.co.uk/login?X-MODE=QA-eW91LXdpbi1ub3RoaW5nCg",
+        "USERNAME": "robot+tester_1@firecreekweb.com",
+        "PASSWORD": "Qwerty66#"
+    }
+}
